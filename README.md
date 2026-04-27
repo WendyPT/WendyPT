@@ -1,8 +1,8 @@
-## Hi, I'm Wendy 👋
+👋 Hi, I'm Wendy 
 
-## 🔍 QA Automation Engineer 
+🔍 QA Automation Engineer, actually live in Vila Nova de Gaia.
 Here are some ideas to get you started:
 
 🎯 **Playwright + TypeScript**
-🧪 Apasionada por la calidad del software
-📚 Estudiando en Tester Testarudo
+🧪 Passionate about software quality
+📚 Studying at Tester Testarudo
